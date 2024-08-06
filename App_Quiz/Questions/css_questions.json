@@ -1,0 +1,386 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "Hyperlinks and Text Markup Language",
+    "answer_3": "Home Tool Markup Language",
+    "answer_4": "Hyper Text Management Language",
+    "correctAnswer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which HTML element is used to define the title of a document?",
+    "answer_1": "<meta>",
+    "answer_2": "<title>",
+    "answer_3": "<head>",
+    "answer_4": "<header>",
+    "correctAnswer": "<title>"
+  },
+  {
+    "title": "What is the correct HTML element for inserting a line break?",
+    "answer_1": "<break>",
+    "answer_2": "<lb>",
+    "answer_3": "<br>",
+    "answer_4": "<line>",
+    "correctAnswer": "<br>"
+  },
+  {
+    "title": "Which is the correct HTML element for the largest heading?",
+    "answer_1": "<heading>",
+    "answer_2": "<h1>",
+    "answer_3": "<head>",
+    "answer_4": "<h6>",
+    "correctAnswer": "<h1>"
+  },
+  {
+    "title": "What is the correct HTML element for creating a hyperlink?",
+    "answer_1": "<a>",
+    "answer_2": "<link>",
+    "answer_3": "<hyperlink>",
+    "answer_4": "<href>",
+    "correctAnswer": "<a>"
+  },
+  {
+    "title": "How can you create an unordered list in HTML?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<list>",
+    "answer_4": "<ulist>",
+    "correctAnswer": "<ul>"
+  },
+  {
+    "title": "Which HTML attribute is used to define inline styles?",
+    "answer_1": "class",
+    "answer_2": "font",
+    "answer_3": "style",
+    "answer_4": "styles",
+    "correctAnswer": "style"
+  },
+  {
+    "title": "Which HTML element is used to specify a footer for a document or section?",
+    "answer_1": "<section>",
+    "answer_2": "<bottom>",
+    "answer_3": "<footer>",
+    "answer_4": "<foot>",
+    "correctAnswer": "<footer>"
+  },
+  {
+    "title": "Which HTML attribute is used to provide an alternative text for an image, if the image cannot be displayed?",
+    "answer_1": "title",
+    "answer_2": "alt",
+    "answer_3": "src",
+    "answer_4": "longdesc",
+    "correctAnswer": "alt"
+  },
+  {
+    "title": "What is the correct way to create a checkbox in HTML?",
+    "answer_1": "<input type='checkbox'>",
+    "answer_2": "<input type='check'>",
+    "answer_3": "<checkbox>",
+    "answer_4": "<input type='cb'>",
+    "correctAnswer": "<input type='checkbox'>"
+  },
+  {
+    "title": "Which HTML element defines the navigation links?",
+    "answer_1": "<navigation>",
+    "answer_2": "<nav>",
+    "answer_3": "<navigate>",
+    "answer_4": "<navig>",
+    "correctAnswer": "<nav>"
+  },
+  {
+    "title": "How do you create a numbered list in HTML?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<li>",
+    "answer_4": "<nl>",
+    "correctAnswer": "<ol>"
+  },
+  {
+    "title": "What is the correct HTML element for playing video files?",
+    "answer_1": "<media>",
+    "answer_2": "<movie>",
+    "answer_3": "<video>",
+    "answer_4": "<audio>",
+    "correctAnswer": "<video>"
+  },
+  {
+    "title": "Which doctype is correct for HTML5?",
+    "answer_1": "<!DOCTYPE html>",
+    "answer_2": "<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>",
+    "answer_3": "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN'>",
+    "answer_4": "<!DOCTYPE html5>",
+    "correctAnswer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "How can you make a numbered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<dl>",
+    "answer_4": "<list>",
+    "correctAnswer": "<ol>"
+  },
+  {
+    "title": "What is the correct HTML element for inserting a line break?",
+    "answer_1": "<break>",
+    "answer_2": "<br>",
+    "answer_3": "<lb>",
+    "answer_4": "<line>",
+    "correctAnswer": "<br>"
+  },
+  {
+    "title": "Which of the following elements is used for the main content of a document?",
+    "answer_1": "<main>",
+    "answer_2": "<content>",
+    "answer_3": "<body>",
+    "answer_4": "<article>",
+    "correctAnswer": "<main>"
+  },
+  {
+    "title": "Which element is used to define important text in HTML?",
+    "answer_1": "<b>",
+    "answer_2": "<strong>",
+    "answer_3": "<i>",
+    "answer_4": "<em>",
+    "correctAnswer": "<strong>"
+  },
+  {
+    "title": "What is the correct HTML element for the largest heading?",
+    "answer_1": "<head>",
+    "answer_2": "<heading>",
+    "answer_3": "<h6>",
+    "answer_4": "<h1>",
+    "correctAnswer": "<h1>"
+  },
+  {
+    "title": "Which attribute specifies a unique identifier for an HTML element?",
+    "answer_1": "id",
+    "answer_2": "class",
+    "answer_3": "name",
+    "answer_4": "type",
+    "correctAnswer": "id"
+  },
+  {
+    "title": "What is the correct HTML element for defining emphasized text?",
+    "answer_1": "<em>",
+    "answer_2": "<i>",
+    "answer_3": "<strong>",
+    "answer_4": "<b>",
+    "correctAnswer": "<em>"
+  },
+  {
+    "title": "Which attribute is used to define inline styles?",
+    "answer_1": "class",
+    "answer_2": "style",
+    "answer_3": "font",
+    "answer_4": "styles",
+    "correctAnswer": "style"
+  },
+  {
+    "title": "Which HTML element is used to define the title of a document?",
+    "answer_1": "<meta>",
+    "answer_2": "<title>",
+    "answer_3": "<head>",
+    "answer_4": "<header>",
+    "correctAnswer": "<title>"
+  },
+  {
+    "title": "What is the correct syntax for creating a hyperlink in HTML?",
+    "answer_1": "<a>http://www.example.com</a>",
+    "answer_2": "<a href='http://www.example.com'>example</a>",
+    "answer_3": "<link href='http://www.example.com'>example</link>",
+    "answer_4": "<a>example</a>",
+    "correctAnswer": "<a href='http://www.example.com'>example</a>"
+  },
+  {
+    "title": "Which element is used to create a drop-down list?",
+    "answer_1": "<select>",
+    "answer_2": "<dropdown>",
+    "answer_3": "<datalist>",
+    "answer_4": "<list>",
+    "correctAnswer": "<select>"
+  },
+  {
+    "title": "What does the <a> tag define?",
+    "answer_1": "Anchor",
+    "answer_2": "Active",
+    "answer_3": "Attribute",
+    "answer_4": "All of the above",
+    "correctAnswer": "Anchor"
+  },
+  {
+    "title": "How can you open a link in a new tab/browser window?",
+    "answer_1": "target='_blank'",
+    "answer_2": "target='_new'",
+    "answer_3": "target='_newtab'",
+    "answer_4": "target='_tab'",
+    "correctAnswer": "target='_blank'"
+  },
+  {
+    "title": "Which tag is used to define an inline frame?",
+    "answer_1": "<iframe>",
+    "answer_2": "<frame>",
+    "answer_3": "<iframe src>",
+    "answer_4": "<inline>",
+    "correctAnswer": "<iframe>"
+  },
+  {
+    "title": "Which HTML tag is used to define an internal style sheet?",
+    "answer_1": "<css>",
+    "answer_2": "<style>",
+    "answer_3": "<script>",
+    "answer_4": "<link>",
+    "correctAnswer": "<style>"
+  },
+  {
+    "title": "What does the <img> tag require to display an image?",
+    "answer_1": "href",
+    "answer_2": "src",
+    "answer_3": "alt",
+    "answer_4": "title",
+    "correctAnswer": "src"
+  },
+  {
+    "title": "Which of the following is a container for metadata (data about data) in HTML?",
+    "answer_1": "<body>",
+    "answer_2": "<head>",
+    "answer_3": "<meta>",
+    "answer_4": "<footer>",
+    "correctAnswer": "<head>"
+  },
+  {
+    "title": "What is the purpose of the <div> tag?",
+    "answer_1": "To define a division or section",
+    "answer_2": "To display inline content",
+    "answer_3": "To define a header",
+    "answer_4": "To define a paragraph",
+    "correctAnswer": "To define a division or section"
+  },
+  {
+    "title": "Which attribute is used to specify that an input field must be filled out before submitting the form?",
+    "answer_1": "placeholder",
+    "answer_2": "required",
+    "answer_3": "validate",
+    "answer_4": "value",
+    "correctAnswer": "required"
+  },
+  {
+    "title": "What is the purpose of the <head> element in HTML?",
+    "answer_1": "To contain meta-information about the document",
+    "answer_2": "To contain the main content of the document",
+    "answer_3": "To display the title of the document",
+    "answer_4": "To contain the navigation links",
+    "correctAnswer": "To contain meta-information about the document"
+  },
+  {
+    "title": "Which HTML element is used to specify a paragraph?",
+    "answer_1": "<p>",
+    "answer_2": "<para>",
+    "answer_3": "<par>",
+    "answer_4": "<pg>",
+    "correctAnswer": "<p>"
+  },
+  {
+    "title": "How can you create a text input field in HTML?",
+    "answer_1": "<input type='text'>",
+    "answer_2": "<input type='textfield'>",
+    "answer_3": "<input text>",
+    "answer_4": "<textinput>",
+    "correctAnswer": "<input type='text'>"
+  },
+  {
+    "title": "Which HTML element is used to specify a table cell?",
+    "answer_1": "<td>",
+    "answer_2": "<th>",
+    "answer_3": "<tr>",
+    "answer_4": "<cell>",
+    "correctAnswer": "<td>"
+  },
+  {
+    "title": "What is the correct way to add a background color in HTML?",
+    "answer_1": "<body bg='yellow'>",
+    "answer_2": "<body style='background-color: yellow;'>",
+    "answer_3": "<body bgcolor='yellow'>",
+    "answer_4": "<background color='yellow'>",
+    "correctAnswer": "<body style='background-color: yellow;'>"
+  },
+  {
+    "title": "What does the <ul> tag define?",
+    "answer_1": "A ordered list",
+    "answer_2": "An unordered list",
+    "answer_3": "A list of links",
+    "answer_4": "A list of definitions",
+    "correctAnswer": "An unordered list"
+  },
+  {
+    "title": "What does the <table> element do?",
+    "answer_1": "Displays tabular data",
+    "answer_2": "Creates a layout grid",
+    "answer_3": "Defines a table header",
+    "answer_4": "Specifies a caption for the table",
+    "correctAnswer": "Displays tabular data"
+  },
+  {
+    "title": "Which HTML element is used to specify a section that is quoted from another source?",
+    "answer_1": "<cite>",
+    "answer_2": "<blockquote>",
+    "answer_3": "<quote>",
+    "answer_4": "<q>",
+    "correctAnswer": "<blockquote>"
+  },
+  {
+    "title": "What does the <span> element do?",
+    "answer_1": "Defines a section",
+    "answer_2": "Defines an inline section",
+    "answer_3": "Defines a block section",
+    "answer_4": "Defines a header",
+    "correctAnswer": "Defines an inline section"
+  },
+  {
+    "title": "Which element is used to define a block of navigation links?",
+    "answer_1": "<nav>",
+    "answer_2": "<navlinks>",
+    "answer_3": "<navigation>",
+    "answer_4": "<navbar>",
+    "correctAnswer": "<nav>"
+  },
+  {
+    "title": "How do you specify the character encoding for an HTML document?",
+    "answer_1": "<meta charset='utf-8'>",
+    "answer_2": "<meta encoding='utf-8'>",
+    "answer_3": "<charset='utf-8'>",
+    "answer_4": "<encoding='utf-8'>",
+    "correctAnswer": "<meta charset='utf-8'>"
+  },
+  {
+    "title": "What does the <hr> element represent?",
+    "answer_1": "A horizontal rule",
+    "answer_2": "A header",
+    "answer_3": "A row",
+    "answer_4": "A heading",
+    "correctAnswer": "A horizontal rule"
+  },
+  {
+    "title": "Which element defines a table row?",
+    "answer_1": "<tr>",
+    "answer_2": "<td>",
+    "answer_3": "<th>",
+    "answer_4": "<row>",
+    "correctAnswer": "<tr>"
+  },
+  {
+    "title": "How do you specify a comment in HTML?",
+    "answer_1": "<!-- Comment -->",
+    "answer_2": "<comment> Comment </comment>",
+    "answer_3": "// Comment",
+    "answer_4": "/* Comment */",
+    "correctAnswer": "<!-- Comment -->"
+  },
+  {
+    "title": "Which attribute is used to define the URL of an external CSS file?",
+    "answer_1": "src",
+    "answer_2": "href",
+    "answer_3": "link",
+    "answer_4": "style",
+    "correctAnswer": "href"
+  }
+]

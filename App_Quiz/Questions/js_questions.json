@@ -1,0 +1,370 @@
+[
+  {
+    "title": "What is the output of 'console.log(typeof null)' in JavaScript?",
+    "answer_1": "null",
+    "answer_2": "object",
+    "answer_3": "undefined",
+    "answer_4": "number",
+    "correctAnswer": "object"
+  },
+  {
+    "title": "Which method can be used to round a number to the nearest integer in JavaScript?",
+    "answer_1": "round()",
+    "answer_2": "ceil()",
+    "answer_3": "floor()",
+    "answer_4": "nearest()",
+    "correctAnswer": "round()"
+  },
+  {
+    "title": "Which JavaScript method is used to find the length of a string?",
+    "answer_1": "length()",
+    "answer_2": "size()",
+    "answer_3": "count()",
+    "answer_4": "length",
+    "correctAnswer": "length"
+  },
+  {
+    "title": "What is the correct syntax to create a JavaScript array?",
+    "answer_1": "var arr = [1, 2, 3]",
+    "answer_2": "var arr = (1, 2, 3)",
+    "answer_3": "var arr = {1, 2, 3}",
+    "answer_4": "var arr = 1, 2, 3",
+    "correctAnswer": "var arr = [1, 2, 3]"
+  },
+  {
+    "title": "Which method removes the last element from an array in JavaScript?",
+    "answer_1": "pop()",
+    "answer_2": "shift()",
+    "answer_3": "splice()",
+    "answer_4": "remove()",
+    "correctAnswer": "pop()"
+  },
+  {
+    "title": "How do you declare a JavaScript variable?",
+    "answer_1": "v myVar",
+    "answer_2": "var myVar",
+    "answer_3": "variable myVar",
+    "answer_4": "declare myVar",
+    "correctAnswer": "var myVar"
+  },
+  {
+    "title": "Which operator is used to assign a value to a variable in JavaScript?",
+    "answer_1": "*",
+    "answer_2": "=",
+    "answer_3": "-",
+    "answer_4": "x",
+    "correctAnswer": "="
+  },
+  {
+    "title": "Which of the following is not a JavaScript data type?",
+    "answer_1": "Undefined",
+    "answer_2": "Number",
+    "answer_3": "Boolean",
+    "answer_4": "Float",
+    "correctAnswer": "Float"
+  },
+  {
+    "title": "How do you write 'Hello World' in an alert box?",
+    "answer_1": "msg('Hello World');",
+    "answer_2": "alertBox('Hello World');",
+    "answer_3": "alert('Hello World');",
+    "answer_4": "msgBox('Hello World');",
+    "correctAnswer": "alert('Hello World');"
+  },
+  {
+    "title": "What does 'NaN' stand for in JavaScript?",
+    "answer_1": "Not a Number",
+    "answer_2": "Not a Name",
+    "answer_3": "Negative a Number",
+    "answer_4": "None a Number",
+    "correctAnswer": "Not a Number"
+  },
+  {
+    "title": "Which JavaScript keyword is used to declare a constant?",
+    "answer_1": "constant",
+    "answer_2": "var",
+    "answer_3": "let",
+    "answer_4": "const",
+    "correctAnswer": "const"
+  },
+  {
+    "title": "How do you call a function named 'myFunction'?",
+    "answer_1": "call function myFunction()",
+    "answer_2": "myFunction()",
+    "answer_3": "call myFunction()",
+    "answer_4": "execute myFunction()",
+    "correctAnswer": "myFunction()"
+  },
+  {
+    "title": "How do you write an 'if' statement in JavaScript?",
+    "answer_1": "if i == 5 then",
+    "answer_2": "if i = 5 then",
+    "answer_3": "if i == 5",
+    "answer_4": "if (i == 5)",
+    "correctAnswer": "if (i == 5)"
+  },
+  {
+    "title": "Which of the following is a JavaScript framework?",
+    "answer_1": "Laravel",
+    "answer_2": "Django",
+    "answer_3": "React",
+    "answer_4": "Ruby on Rails",
+    "correctAnswer": "React"
+  },
+  {
+    "title": "How do you add a comment in JavaScript?",
+    "answer_1": "// This is a comment",
+    "answer_2": "<!-- This is a comment -->",
+    "answer_3": "# This is a comment",
+    "answer_4": "/* This is a comment */",
+    "correctAnswer": "// This is a comment"
+  },
+  {
+    "title": "How do you create a function in JavaScript?",
+    "answer_1": "function:myFunction()",
+    "answer_2": "function myFunction()",
+    "answer_3": "function = myFunction()",
+    "answer_4": "function => myFunction()",
+    "correctAnswer": "function myFunction()"
+  },
+  {
+    "title": "Which built-in method combines the text of two strings and returns a new string?",
+    "answer_1": "append()",
+    "answer_2": "concat()",
+    "answer_3": "attach()",
+    "answer_4": "add()",
+    "correctAnswer": "concat()"
+  },
+  {
+    "title": "Which of the following is a JavaScript data type?",
+    "answer_1": "String",
+    "answer_2": "Function",
+    "answer_3": "Class",
+    "answer_4": "All of the above",
+    "correctAnswer": "String"
+  },
+  {
+    "title": "How do you find the minimum of x and y using JavaScript?",
+    "answer_1": "min(x, y)",
+    "answer_2": "Math.min(x, y)",
+    "answer_3": "Math.minNum(x, y)",
+    "answer_4": "minimum(x, y)",
+    "correctAnswer": "Math.min(x, y)"
+  },
+  {
+    "title": "Which symbol is used for comments in JavaScript?",
+    "answer_1": "//",
+    "answer_2": "/*",
+    "answer_3": "#",
+    "answer_4": "$",
+    "correctAnswer": "//"
+  },
+  {
+    "title": "What is the result of '2' + 3 in JavaScript?",
+    "answer_1": "5",
+    "answer_2": "6",
+    "answer_3": "23",
+    "answer_4": "undefined",
+    "correctAnswer": "23"
+  },
+  {
+    "title": "What will 'console.log(3 === '3')' output?",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "undefined",
+    "answer_4": "null",
+    "correctAnswer": "false"
+  },
+  {
+    "title": "What is the correct way to declare a JavaScript array?",
+    "answer_1": "var arr = (1, 2, 3)",
+    "answer_2": "var arr = {1, 2, 3}",
+    "answer_3": "var arr = [1, 2, 3]",
+    "answer_4": "var arr = 1, 2, 3",
+    "correctAnswer": "var arr = [1, 2, 3]"
+  },
+  {
+    "title": "Which method returns the string representation of the number's value?",
+    "answer_1": "toValue()",
+    "answer_2": "toNumber()",
+    "answer_3": "toString()",
+    "answer_4": "None of the above",
+    "correctAnswer": "toString()"
+  },
+  {
+    "title": "Which JavaScript method is used to access HTML elements?",
+    "answer_1": "getElementById()",
+    "answer_2": "getElement()",
+    "answer_3": "getNode()",
+    "answer_4": "getElementByTag()",
+    "correctAnswer": "getElementById()"
+  },
+  {
+    "title": "How do you declare a JavaScript variable named 'score'?",
+    "answer_1": "variable score",
+    "answer_2": "var score",
+    "answer_3": "v score",
+    "answer_4": "let score",
+    "correctAnswer": "var score"
+  },
+  {
+    "title": "Which operator is used to compare both value and type in JavaScript?",
+    "answer_1": "==",
+    "answer_2": "===",
+    "answer_3": "!=",
+    "answer_4": "!==",
+    "correctAnswer": "==="
+  },
+  {
+    "title": "Which method can be used to convert JSON data to a JavaScript object?",
+    "answer_1": "JSON.parse()",
+    "answer_2": "JSON.stringify()",
+    "answer_3": "JSON.convert()",
+    "answer_4": "JSON.toObject()",
+    "correctAnswer": "JSON.parse()"
+  },
+  {
+    "title": "What will 'console.log(typeof [])' output?",
+    "answer_1": "array",
+    "answer_2": "object",
+    "answer_3": "undefined",
+    "answer_4": "null",
+    "correctAnswer": "object"
+  },
+  {
+    "title": "Which keyword is used to create a class in JavaScript?",
+    "answer_1": "class",
+    "answer_2": "function",
+    "answer_3": "constructor",
+    "answer_4": "module",
+    "correctAnswer": "class"
+  },
+  {
+    "title": "What is the purpose of the 'this' keyword in JavaScript?",
+    "answer_1": "It refers to the current object",
+    "answer_2": "It refers to the global object",
+    "answer_3": "It refers to the previous object",
+    "answer_4": "It refers to the current function",
+    "correctAnswer": "It refers to the current object"
+  },
+  {
+    "title": "Which event occurs when the user clicks on an HTML element?",
+    "answer_1": "onchange",
+    "answer_2": "onclick",
+    "answer_3": "onmouseclick",
+    "answer_4": "onmouseover",
+    "correctAnswer": "onclick"
+  },
+  {
+    "title": "Which statement can be used to exit a loop in JavaScript?",
+    "answer_1": "break",
+    "answer_2": "exit",
+    "answer_3": "stop",
+    "answer_4": "return",
+    "correctAnswer": "break"
+  },
+  {
+    "title": "How do you write a JavaScript object?",
+    "answer_1": "var obj = [name: 'John', age: 30]",
+    "answer_2": "var obj = {name: 'John', age: 30}",
+    "answer_3": "var obj = name='John', age=30",
+    "answer_4": "var obj = (name: 'John', age: 30)",
+    "correctAnswer": "var obj = {name: 'John', age: 30}"
+  },
+  {
+    "title": "How can you convert a string to a number in JavaScript?",
+    "answer_1": "Number()",
+    "answer_2": "parseFloat()",
+    "answer_3": "parseInt()",
+    "answer_4": "All of the above",
+    "correctAnswer": "All of the above"
+  },
+  {
+    "title": "What does the 'typeof' operator do in JavaScript?",
+    "answer_1": "Returns the data type of a variable",
+    "answer_2": "Returns the size of a variable",
+    "answer_3": "Checks if a variable is defined",
+    "answer_4": "Checks the value of a variable",
+    "correctAnswer": "Returns the data type of a variable"
+  },
+  {
+    "title": "Which method removes the first element from an array and returns that element?",
+    "answer_1": "shift()",
+    "answer_2": "pop()",
+    "answer_3": "slice()",
+    "answer_4": "splice()",
+    "correctAnswer": "shift()"
+  },
+  {
+    "title": "What is the output of 'console.log(0 == false)'?",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "null",
+    "answer_4": "undefined",
+    "correctAnswer": "true"
+  },
+  {
+    "title": "What will 'console.log(1 + '2' + 3)' output?",
+    "answer_1": "123",
+    "answer_2": "6",
+    "answer_3": "33",
+    "answer_4": "undefined",
+    "correctAnswer": "123"
+  },
+  {
+    "title": "How do you declare a variable that can hold a value of any type in JavaScript?",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "any",
+    "correctAnswer": "var"
+  },
+  {
+    "title": "What is the correct syntax for a for loop in JavaScript?",
+    "answer_1": "for (i <= 5; i++)",
+    "answer_2": "for (i = 0; i <= 5; i++)",
+    "answer_3": "for (i = 0; i <= 5)",
+    "answer_4": "for (i <= 5; i++)",
+    "correctAnswer": "for (i = 0; i <= 5; i++)"
+  },
+  {
+    "title": "Which of the following methods is used to add an element to the beginning of an array?",
+    "answer_1": "push()",
+    "answer_2": "unshift()",
+    "answer_3": "concat()",
+    "answer_4": "splice()",
+    "correctAnswer": "unshift()"
+  },
+  {
+    "title": "What does the isNaN() function do?",
+    "answer_1": "Checks if a value is a number",
+    "answer_2": "Checks if a value is not a number",
+    "answer_3": "Converts a value to a number",
+    "answer_4": "None of the above",
+    "correctAnswer": "Checks if a value is not a number"
+  },
+  {
+    "title": "Which method can be used to join all elements of an array into a string?",
+    "answer_1": "join()",
+    "answer_2": "concat()",
+    "answer_3": "push()",
+    "answer_4": "slice()",
+    "correctAnswer": "join()"
+  },
+  {
+    "title": "How do you declare a function that accepts two parameters and returns their sum?",
+    "answer_1": "function sum(a, b) { return a + b; }",
+    "answer_2": "function sum(a, b) { a + b; }",
+    "answer_3": "function sum(a, b) return a + b;",
+    "answer_4": "function sum(a, b) a + b;",
+    "correctAnswer": "function sum(a, b) { return a + b; }"
+  },
+  {
+    "title": "What does the '!=='' operator mean in JavaScript?",
+    "answer_1": "Strict equality",
+    "answer_2": "Strict inequality",
+    "answer_3": "Equal value and type",
+    "answer_4": "Not equal value and type",
+    "correctAnswer": "Not equal value and type"
+  }
+]
