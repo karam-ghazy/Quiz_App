@@ -18,8 +18,8 @@ let result = document.querySelector(".result");
 let count_Down = document.querySelector(".count-down");
 //
 let resetButton = document.querySelector(".reset-button");
-let btnContainer = document.querySelector(".buttons");
-
+//
+let h4 = document.querySelector("h4");
 //set options
 let currentIndex = 0;
 let rightAnswers = 0;
@@ -40,23 +40,27 @@ function getCategoryName() {
       category.classList.add("chosen");
       //set hidden to visible
       hiddenDiv.classList.add("visible");
-      quizArea.style.display = "block";
-      answersArea.style.display = "block";
-      btnContainer.style.display = "flex";
-      bullets.style.display = "flex";
+      resetButton.style.display = "none";
+      h4.style.display = "none";
       //initial state of current index on change category
       currentIndex = 0;
       rightAnswers = 0;
       result.innerHTML = "";
-      // the name of the chosen category
-      name = category.innerHTML.toLocaleLowerCase();
-      getQuestions(name);
+      ///
       resetButton.onclick = function () {
         currentIndex = 0;
         rightAnswers = 0;
+        quizArea.style.display = "block";
+        answersArea.style.display = "block";
+        submitButton.style.display = "block";
+        resetButton.style.display = "none";
+        bullets.style.display = "flex";
         result.innerHTML = "";
         getQuestions(name);
       };
+      // the name of the chosen category
+      name = category.innerHTML.toLocaleLowerCase();
+      getQuestions(name);
     });
   });
 }
@@ -141,7 +145,8 @@ function countDown(duration, count) {
 function showResult(count) {
   quizArea.style.display = "none";
   answersArea.style.display = "none";
-  btnContainer.style.display = "none";
+  submitButton.style.display = "none";
+  resetButton.style.display = "block";
   bullets.style.display = "none";
   countQuestions.innerHTML = "";
 
